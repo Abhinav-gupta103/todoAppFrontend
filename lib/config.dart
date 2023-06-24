@@ -1,4 +1,4 @@
-final url = 'http://192.168.1.3:3000/';
+final url = 'https://todobackend-ag0537269.onrender.com/';
 final registration = url + "registration";
 final login = url + 'login';
 final addtodo = url + 'create-todo';
